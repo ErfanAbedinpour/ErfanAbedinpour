@@ -24,7 +24,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🌱 What I’m Learning  
 
-I’m currently exploring advanced concepts in **NestJS** and diving into **Domain-Driven Design (DDD)** to enhance my software architecture skills.  
+I’m currently exploring advanced concepts in **NestJS** and diving into **Domain-Driven Design (DDD) && Microservices ** to enhance my software architecture skills.  
 
 ## 📫 Connect with Me  
 
