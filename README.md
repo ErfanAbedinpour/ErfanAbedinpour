@@ -28,4 +28,10 @@ I’m currently exploring advanced concepts in **NestJS** and diving into **Doma
 
 ## 📫 Connect with Me  
 
-Feel free to explore my repositories and get in touch!
+## 📫 Contact Me  
+
+Feel free to reach out to me through the following platforms:  
+
+- **Telegram**: [@Erfane_Abedinpour](https://t.me/Erfane_Abedinpour)  
+- **Instagram**: [@erfanabedinpour6](https://www.instagram.com/erfanabedinpour6)  
+- **Email**: [erfan.wtf44@gmail.com](mailto:erfan.wtf44@gmail.com) 
