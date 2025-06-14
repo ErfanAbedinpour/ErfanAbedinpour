@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErfanAbedinpour
-- 👀 A new BackEnd develooper 
+BackEnd develooper 
 - 👀 I'm Interested in Learning new things 😊
 
 
@@ -20,7 +20,9 @@ Here are some of the tools and technologies I work with:
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 - **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Socket.io** ![Socket.io](https://img.shields.io/badge/socket.io-F7DF1E?style=for-the-badge&logo=socket.iot&logoColor=black)
+- **Python** ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKxB68uSJGGEshVvbHOEESjkOw30w9GbRLw&s) 
 
 ## 🌱 What I’m Learning  
 
@@ -32,6 +34,6 @@ I’m currently exploring advanced concepts in **NestJS** and diving into **Doma
 
 Feel free to reach out to me through the following platforms:  
 
-- **Telegram**: [@Erfane_Abedinpour](https://t.me/Erfane_Abedinpour)  
+- **Telegram**: [@Erfane_Abedinpour](https://t.me/ErfanAbedinpour)  
 - **Instagram**: [@erfanabedinpour6](https://www.instagram.com/erfanabedinpour6)  
 - **Email**: [erfan.wtf44@gmail.com](mailto:erfan.wtf44@gmail.com) 
