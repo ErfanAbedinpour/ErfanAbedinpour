@@ -21,8 +21,6 @@ Here are some of the tools and technologies I work with:
 - **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 - **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 - **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Socket.io** ![Socket.io](https://img.shields.io/badge/socket.io-F7DF1E?style=for-the-badge&logo=socket.iot&logoColor=black)
-- **Python** ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKxB68uSJGGEshVvbHOEESjkOw30w9GbRLw&s) 
 
 ## 🌱 What I’m Learning  
 
