@@ -1,131 +1,183 @@
 
-<!--
-  ERFAN ABEDINPOUR | GitHub Profile
-  Theme: Midnight / Electric Blue / Violet
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:312e81,100:0891b2&height=220&section=header&text=ERFAN%20ABEDINPOUR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080b16,40:312e81,75:164e63,100:080b16&text=ERFAN%20ABEDINPOUR&fontColor=ffffff&fontSize=48&fontAlignY=45&animation=fadeIn&stroke=22d3ee&strokeWidth=1" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+NestJS+%26+Node.js;Building+scalable+backend+systems;Exploring+Go+%26+microservices;Connecting+systems+through+code" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+System+Architect;Blockchain+%26+On-chain+Systems;NestJS+%7C+Node.js+%7C+Go;Building+systems+that+connect+the+world." />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ErfanAbedinpour">
-<img src="https://img.shields.io/badge/GitHub-09090f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0b1020?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://t.me/ErfanAbedinpour">
-<img src="https://img.shields.io/badge/Telegram-09090f?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/TELEGRAM-0b1020?style=for-the-badge&logo=telegram&logoColor=22d3ee"/>
 </a>
 <a href="mailto:erfan.wtf44@gmail.com">
-<img src="https://img.shields.io/badge/Email-09090f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/CONTACT-0b1020?style=for-the-badge&logo=gmail&logoColor=ea4335"/>
 </a>
+
+<br/><br/>
+
+<sub>ENGINEERING SYSTEMS · BUILDING CONNECTIONS · EXPLORING WHAT'S NEXT</sub>
 
 </div>
 
 ---
 
-## `01 / ABOUT ME`
+<div align="center">
+
+### `01 — WHO AM I?`
+
+</div>
+
+I'm **Erfan Abedinpour**, a software developer focused on building reliable backend systems, scalable architectures, and blockchain-related solutions.
+
+I spend most of my time working with **Node.js, NestJS, and TypeScript**, designing APIs, typed services, real-time communication, and the infrastructure behind modern applications.
+
+Beyond traditional backend development, I'm interested in **blockchain technology, on-chain transfers, and shared state between systems and participants that need to trust the same data.**
+
+I also build interfaces with React and Next.js, explore Go for lightweight services, and use Python whenever a simple script is the right solution.
+
+I care about architecture, but I care even more about knowing when architecture is actually needed.
 
 ```typescript
 const erfan = {
-  role: "Backend Developer",
-  focus: [
-    "Backend Architecture",
+  identity: "Software Engineer",
+
+  core: [
+    "Backend Engineering",
+    "Blockchain & On-chain Systems",
+    "System Architecture"
+  ],
+
+  backend: ["Node.js", "NestJS", "Go", "Python"],
+
+  frontend: ["TypeScript", "React", "Next.js"],
+
+  architecture: [
     "Domain-Driven Design",
+    "Microservices",
     "Distributed Systems"
   ],
-  dailyStack: ["Node.js", "NestJS", "TypeScript"],
-  exploring: ["Go", "Microservices"],
-  frontend: ["React", "Next.js"],
-  interests: [
-    "Real-time Systems",
-    "GraphQL",
-    "Blockchain"
+
+  blockchain: [
+    "On-chain Transfers",
+    "Transaction Flows",
+    "Shared & Verifiable State"
   ],
-  mindset: "Build simple. Think deeply. Scale wisely."
+
+  philosophy: "Build with purpose. Scale with reason."
 };
 ```
 
-I build backend systems and the interfaces that bring them to life.
-
-Most of my work revolves around **Node.js, NestJS, and TypeScript** — designing typed services, APIs, real-time communication, and systems that can grow without becoming unnecessarily complex.
-
-I also work with React and Next.js when a product needs a face, explore Go for lightweight services, and use Python when getting the job done matters more than overengineering it.
-
-Currently diving deeper into **Domain-Driven Design, service boundaries, and distributed architecture.**
-
 ---
-
-## `02 / TECH STACK`
 
 <div align="center">
 
-### Backend & Infrastructure
+### `02 — THE ENGINEERING STACK`
+
+*Tools I use to turn ideas into working systems.*
+
+</div>
+
+**BACKEND & SYSTEMS**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,python,docker,graphql&theme=dark" />
 
-### Frontend & Languages
+</div>
+
+**BLOCKCHAIN & WEB3**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" />
+
+</div>
+
+**FRONTEND & INTERFACES**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css&theme=dark" />
 
-### Tools & Environment
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postgres,redis,vscode&theme=dark" />
+**DATABASES & DEVELOPMENT TOOLS**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,git,github,linux,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## `03 / WHAT I WORK ON`
+<div align="center">
+
+### `03 — AREAS OF INTEREST`
+
+*Four areas. One engineering mindset.*
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
+<h3>⚙️ Backend Engineering</h3>
+
+Building the logic behind applications.
 
 - NestJS & Node.js
-- Typed service architecture
-- GraphQL APIs
-- RESTful services
+- Go services
+- GraphQL & REST APIs
 - WebSocket & Socket.IO
+- Docker & Infrastructure
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 System Architecture
+<h3>⛓️ Blockchain & Web3</h3>
 
-- Domain-Driven Design
-- Microservice boundaries
-- Distributed systems
-- Docker & containerization
-- Real-time communication
+Exploring systems beyond centralized infrastructure.
+
+- On-chain transfers
+- Transaction processing
+- Shared state
+- Verifiable data
+- Blockchain-based systems
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 Frontend Engineering
+<h3>🏗️ Software Architecture</h3>
+
+Designing systems that remain understandable as they grow.
+
+- Domain-Driven Design
+- Microservice boundaries
+- Distributed systems
+- Typed architecture
+- Service communication
+
+</td>
+<td width="50%" valign="top">
+
+<h3>◈ Frontend Engineering</h3>
+
+Giving products a clean and functional interface.
 
 - TypeScript & JavaScript
 - React
 - Next.js
-- Modern interfaces
-
-</td>
-<td width="50%">
-
-### 🔗 Beyond the Backend
-
-- Go services
-- Python automation
-- On-chain transfers
-- Shared and verifiable state
+- Modern web interfaces
 
 </td>
 </tr>
@@ -133,57 +185,79 @@ Currently diving deeper into **Domain-Driven Design, service boundaries, and dis
 
 ---
 
-## `04 / CURRENTLY EXPLORING`
+<div align="center">
+
+### `04 — CURRENTLY IN THE LAB`
+
+</div>
 
 ```yaml
-learning:
-  - Domain-Driven Design with NestJS
-  - Designing meaningful microservice boundaries
-  - Go for lightweight backend services
-  - Distributed state and real-time systems
+# Current research & development
 
-philosophy:
-  - Keep services focused
-  - Avoid unnecessary complexity
-  - Choose architecture based on actual needs
+backend:
+  - Advanced NestJS architecture
+  - Domain-Driven Design
+  - Typed and maintainable services
+
+blockchain:
+  - On-chain transaction flows
+  - Shared state between participants
+  - Blockchain system integration
+
+architecture:
+  - Designing meaningful service boundaries
+  - Microservices when they make sense
+  - Distributed system communication
+
+exploration:
+  - Go for lightweight services
+  - Python for automation
 ```
 
 ---
 
-## `05 / GITHUB ACTIVITY`
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ErfanAbedinpour&show_icons=true&hide_border=true&bg_color=09090f&title_color=22d3ee&icon_color=818cf8&text_color=cbd5e1&ring_color=8b5cf6" />
+### `05 — GITHUB ANALYTICS`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanAbedinpour&layout=compact&hide_border=true&bg_color=09090f&title_color=22d3ee&text_color=cbd5e1" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErfanAbedinpour&show_icons=true&hide_border=true&bg_color=080b16&title_color=22d3ee&icon_color=8b5cf6&text_color=cbd5e1&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanAbedinpour&layout=compact&hide_border=true&bg_color=080b16&title_color=22d3ee&text_color=cbd5e1" width="49%" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanAbedinpour&hide_border=true&background=09090f&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanAbedinpour&hide_border=true&background=080b16&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8" width="85%" />
 
 </div>
 
 ---
 
-## `06 / LET'S CONNECT`
-
 <div align="center">
 
-**Have an interesting system to build? Let's talk.**
+### `06 — BEYOND THE CODE`
+
+I believe good engineering is not about using more technologies.
+
+It's about understanding the problem, choosing the right tools, and building something that lasts.
+
+**Think in systems. Build with intention.**
+
+<br/>
 
 <a href="https://t.me/ErfanAbedinpour">
-<img src="https://img.shields.io/badge/TELEGRAM-22D3EE?style=for-the-badge&logo=telegram&logoColor=09090f"/>
+<img src="https://img.shields.io/badge/TELEGRAM-0b1020?style=for-the-badge&logo=telegram&logoColor=22d3ee"/>
 </a>
 <a href="https://www.instagram.com/erfanabedinpour6">
-<img src="https://img.shields.io/badge/INSTAGRAM-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0b1020?style=for-the-badge&logo=instagram&logoColor=e879f9"/>
 </a>
 <a href="mailto:erfan.wtf44@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0b1020?style=for-the-badge&logo=gmail&logoColor=22d3ee"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:09090f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,50:312e81,100:164e63&height=130&section=footer" width="100%" />
+
+<sub>ERFAN ABEDINPOUR © 2026 · BUILT WITH CURIOSITY</sub>
 
 </div>
