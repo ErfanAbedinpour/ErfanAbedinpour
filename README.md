@@ -1,231 +1,145 @@
 
 <!-- =====================================================
-     ERFAN ABEDINPOUR | DEVELOPER PROFILE
-     Theme: Midnight Cyber-Tech
-     Backend | Blockchain | Architecture
+     ERFAN ABEDINPOUR
+     Backend Engineering | Blockchain | Architecture
+     Design: Minimal / Professional / Engineering
 ====================================================== -->
 
 <div align="center">
 
-<!-- CUSTOM HERO BANNER -->
-<img src="./assets/banner.png" width="100%" alt="Erfan Abedinpour - Developer Banner" />
+# ERFAN ABEDINPOUR
 
-<br/>
+### Backend Engineer · Blockchain · Software Architecture
 
-<!-- ANIMATED INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+System+Builder;Blockchain+%26+On-chain+Systems;NestJS+%7C+Node.js+%7C+Go;Building+systems.+Connecting+worlds." alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=2AA198&center=true&vCenter=true&width=540&lines=Building+reliable+backend+systems;Exploring+blockchain+technologies;Designing+maintainable+software+architecture;Turning+complex+problems+into+simple+solutions" alt="Introduction" />
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/ErfanAbedinpour">
-  <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://t.me/ErfanAbedinpour">
-  <img src="https://img.shields.io/badge/TELEGRAM-0B1020?style=for-the-badge&logo=telegram&logoColor=22D3EE" />
-</a>
-<a href="mailto:erfan.wtf44@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://www.instagram.com/erfanabedinpour6">
-  <img src="https://img.shields.io/badge/INSTAGRAM-0B1020?style=for-the-badge&logo=instagram&logoColor=E879F9" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ErfanAbedinpour&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
+<p>
+  <a href="https://github.com/ErfanAbedinpour">
+    <img src="https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/ErfanAbedinpour">
+    <img src="https://img.shields.io/badge/Telegram-24292f?style=flat-square&logo=telegram&logoColor=2AA198" />
+  </a>
+  <a href="mailto:erfan.wtf44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/erfanabedinpour6">
+    <img src="https://img.shields.io/badge/Instagram-24292f?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-## `01 / ABOUT ME`
+I'm **Erfan Abedinpour**, a software developer focused on backend engineering, blockchain technologies, and software architecture.
 
-### Building systems. Connecting worlds.
+My primary stack revolves around **Node.js, NestJS, and TypeScript**. I work on designing backend services, building APIs, implementing real-time communication, and developing maintainable application architectures.
 
-</div>
+I'm also interested in **blockchain systems and on-chain operations**, particularly transaction flows and shared state between multiple participants.
 
-I'm **Erfan Abedinpour**, a software developer focused on backend engineering, system architecture, and blockchain-related technologies.
+On the frontend, I use React and Next.js to build interfaces when a product needs them. I'm also exploring Go for lightweight services and use Python for scripting and automation.
 
-My main playground is **Node.js, NestJS, and TypeScript** — building typed services, designing APIs, implementing real-time communication, and developing the infrastructure behind modern applications.
-
-But my interests go beyond traditional backend development.
-
-I'm also interested in **Blockchain and decentralized systems**, especially on-chain transfers, transaction flows, and shared state between multiple parties that need to trust the same data.
-
-When a product needs a face, I work with React and Next.js. When a service needs to stay small and efficient, I explore Go. And when a task needs automation, Python is always nearby.
-
-I believe good architecture isn't about making everything complicated.
-
-It's about making the right decisions before complexity becomes a problem.
-
-```typescript
-const erfan = {
-  name: "Erfan Abedinpour",
-
-  role: "Software Engineer",
-
-  focus: [
-    "Backend Engineering",
-    "Blockchain & Web3",
-    "System Architecture"
-  ],
-
-  backend: [
-    "Node.js",
-    "NestJS",
-    "Go",
-    "Python"
-  ],
-
-  frontend: [
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Next.js"
-  ],
-
-  technologies: [
-    "GraphQL",
-    "WebSocket",
-    "Socket.IO",
-    "Docker"
-  ],
-
-  architecture: [
-    "Domain-Driven Design",
-    "Microservices",
-    "Distributed Systems"
-  ],
-
-  blockchain: [
-    "On-chain Transfers",
-    "Transaction Flows",
-    "Shared & Verifiable State"
-  ],
-
-  philosophy: "Build with purpose. Scale with reason."
-};
-```
+I value clean architecture, practical engineering decisions, and solutions that solve real problems without introducing unnecessary complexity.
 
 ---
 
-<div align="center">
+## Technology Stack
 
-## `02 / TECHNOLOGY STACK`
+### Backend Development
 
-*The tools behind the systems I build.*
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,python,docker&theme=dark" />
+</p>
 
-</div>
+### Frontend Development
 
-### ⚙️ Backend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs&theme=dark" />
+</p>
 
-<div align="center">
+### APIs & Communication
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,python,docker&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-333333?style=flat-square&logo=graphql&logoColor=E10098" />
+  <img src="https://img.shields.io/badge/REST_API-333333?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-333333?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-333333?style=flat-square&logo=socketdotio&logoColor=white" />
+</p>
 
-<br/><br/>
+### Blockchain
 
-<img src="https://img.shields.io/badge/GraphQL-0B1020?style=for-the-badge&logo=graphql&logoColor=E10098" />
-<img src="https://img.shields.io/badge/WebSocket-0B1020?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-0B1020?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Blockchain-333333?style=flat-square&logo=bitcoin&logoColor=F7931A" />
+  <img src="https://img.shields.io/badge/On--chain_Operations-333333?style=flat-square&logo=ethereum&logoColor=627EEA" />
+  <img src="https://img.shields.io/badge/Distributed_State-333333?style=flat-square&logo=web3dotjs&logoColor=white" />
+</p>
 
-</div>
+### Tools & Environment
 
-### ⛓️ Blockchain & Web3
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BLOCKCHAIN-0B1020?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
-<img src="https://img.shields.io/badge/ON--CHAIN_SYSTEMS-0B1020?style=for-the-badge&logo=ethereum&logoColor=627EEA" />
-<img src="https://img.shields.io/badge/DISTRIBUTED_STATE-0B1020?style=for-the-badge&logo=web3dotjs&logoColor=22D3EE" />
-
-</div>
-
-### 🎨 Frontend Engineering
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css&theme=dark" />
-
-</div>
-
-### 🧠 Development Environment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+</p>
 
 ---
 
-<div align="center">
-
-## `03 / WHAT I BUILD`
-
-*Different layers. One engineering mindset.*
-
-</div>
+## Core Areas
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚙️ Backend Systems</h3>
+### Backend Engineering
 
-Building reliable application infrastructure.
-
-- NestJS & Node.js
+- Node.js & NestJS
 - Go services
-- GraphQL & REST APIs
+- TypeScript
+- GraphQL APIs
+- REST APIs
 - WebSocket & Socket.IO
-- Typed service architecture
 - Docker
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⛓️ Blockchain & Web3</h3>
-
-Exploring systems beyond centralized infrastructure.
+### Blockchain Development
 
 - On-chain transfers
 - Transaction flows
-- Shared state between participants
-- Verifiable data
 - Blockchain integrations
+- Shared state
+- Verifiable data
 - Decentralized systems
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏗️ Software Architecture</h3>
-
-Designing systems that remain maintainable as they grow.
+### Software Architecture
 
 - Domain-Driven Design
-- Microservice boundaries
+- Microservice architecture
+- Service boundaries
 - Distributed systems
-- Service communication
-- Modular architecture
+- Modular design
+- Maintainable codebases
 
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ Frontend Development</h3>
+### Frontend Development
 
-Building interfaces that bring products to life.
-
-- TypeScript & JavaScript
 - React
 - Next.js
-- Modern web interfaces
+- TypeScript
+- JavaScript
 - API integration
+- Modern web interfaces
 
 </td>
 </tr>
@@ -233,93 +147,60 @@ Building interfaces that bring products to life.
 
 ---
 
-<div align="center">
+## Currently Exploring
 
-## `04 / CURRENTLY EXPLORING`
+I'm continuously improving my understanding of software architecture and distributed systems.
 
-*Always learning. Always building.*
+**Current focus:**
 
-</div>
+- Domain-Driven Design with NestJS
+- Designing effective microservice boundaries
+- Go for lightweight backend services
+- Blockchain integrations and on-chain transaction flows
+- Distributed communication and shared state
 
-```yaml
-current_focus:
-
-  backend:
-    - Advanced NestJS architecture
-    - Domain-Driven Design
-    - Typed and maintainable services
-
-  blockchain:
-    - On-chain transaction flows
-    - Shared state between participants
-    - Blockchain system integration
-
-  architecture:
-    - Meaningful microservice boundaries
-    - Distributed system communication
-    - Scalable service design
-
-  exploration:
-    - Go for lightweight backend services
-    - Python for automation
-
-engineering_principles:
-  - Keep things simple
-  - Design around business domains
-  - Avoid unnecessary complexity
-  - Choose architecture based on actual needs
-```
+My approach is to understand the problem first, define the right boundaries, and choose the simplest architecture that can support the requirements.
 
 ---
 
+## GitHub Statistics
+
 <div align="center">
 
-## `05 / GITHUB ANALYTICS`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ErfanAbedinpour&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2AA198&icon_color=2AA198&text_color=C9D1D9&rank_icon=github" />
 
-*Some numbers behind the code.*
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ErfanAbedinpour&show_icons=true&hide_border=true&bg_color=080B16&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanAbedinpour&layout=compact&hide_border=true&bg_color=080B16&title_color=22D3EE&text_color=CBD5E1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanAbedinpour&layout=compact&hide_border=true&bg_color=0D1117&title_color=2AA198&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanAbedinpour&hide_border=true&background=080B16&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanAbedinpour&hide_border=true&background=0D1117&ring=2AA198&fire=2AA198&currStreakLabel=2AA198&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
+## Contact
+
+I'm always interested in discussing software engineering, backend architecture, blockchain technologies, and interesting technical challenges.
+
+<p>
+  <a href="https://t.me/ErfanAbedinpour">
+    <img src="https://img.shields.io/badge/Telegram-2AA198?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:erfan.wtf44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/erfanabedinpour6">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-## `06 / BEYOND THE CODE`
+**Good software is built on good decisions.**
 
-### Think in systems. Build with intention.
-
-I enjoy working on problems where software engineering meets architecture, real-time communication, and decentralized technology.
-
-Whether it's a backend service, a distributed system, or a blockchain-related solution, I'm interested in understanding how things work beneath the surface.
-
-<br/>
-
-**Have an interesting idea or system to build? Let's connect.**
-
-<br/>
-
-<a href="https://t.me/ErfanAbedinpour">
-  <img src="https://img.shields.io/badge/LET'S_TALK-0B1020?style=for-the-badge&logo=telegram&logoColor=22D3EE" />
-</a>
-
-<a href="mailto:erfan.wtf44@gmail.com">
-  <img src="https://img.shields.io/badge/GET_IN_TOUCH-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,40:312E81,100:164E63&height=130&section=footer" width="100%" />
-
-<sub>ERFAN ABEDINPOUR © 2026 · ENGINEERED WITH CURIOSITY</sub>
+<sub>ERFAN ABEDINPOUR · 2026</sub>
 
 </div>
