@@ -1,40 +1,32 @@
-- 👋 Hi, I’m @ErfanAbedinpour
-BackEnd develooper 
-- 👀 I'm Interested in Learning new things 😊
+# Erfan Abedinpour
 
+I write backends. I ship the interface when the product needs a face. I follow the chain when the state has to be shared.
 
-<!---
-ErfanAbedinpour/ErfanAbedinpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 🌟 About Me  
+The daily work is NestJS and Node: typed services, GraphQL, live sockets, and Docker around them. The screen in front of that API is React and Next.js. Newer services are moving into Go, where the process can stay small. Python stays close for the jobs that are faster to script than to design.
 
-Hi there! 👋 I'm a passionate software developer with a keen interest in crafting scalable and efficient solutions. My journey in the tech world is fueled by a deep love for learning and experimenting with modern technologies. I specialize in backend development, containerization, and scripting, leveraging cutting-edge tools to bring ideas to life.  
+The study in front of me is concrete. Domain-driven design inside NestJS, and microservice boundaries only where the split pays for itself.
 
-## 🚀 Skills  
+<p>
+<code>node</code>
+<code>nestjs</code>
+<code>go</code>
+<code>typescript</code>
+<code>react</code>
+<code>next.js</code>
+<code>graphql</code>
+<code>websocket</code>
+<code>docker</code>
+<code>python</code>
+<code>chain</code>
+</p>
 
-Here are some of the tools and technologies I work with:  
+| | |
+| --- | --- |
+| **Server** | Node.js · NestJS · Go · Python · GraphQL · Socket.IO · WebSocket · Docker |
+| **Interface** | TypeScript · JavaScript · React · Next.js |
+| **Chain** | on-chain transfers, and state more than one party has to trust |
+| **Now** | domain-driven design · service boundaries · Go on the small, fast path |
 
-- **Node.js** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-- **NestJS** ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-- **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- **GraphQL** ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-- **Socket.IO** ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)  
-- **WebSocket** ![WebSocket](https://img.shields.io/badge/WebSocket-4E9CAF?style=for-the-badge&logo=websocket&logoColor=white)
+---
 
-## 🌱 What I’m Learning  
-
-I’m currently exploring advanced concepts in **NestJS** and diving into **Domain-Driven Design (DDD) && Microservices ** to enhance my software architecture skills.  
-
-## 📫 Connect with Me  
-
-## 📫 Contact Me  
-
-Feel free to reach out to me through the following platforms:  
-
-- **Telegram**: [@Erfane_Abedinpour](https://t.me/ErfanAbedinpour)  
-- **Instagram**: [@erfanabedinpour6](https://www.instagram.com/erfanabedinpour6)  
-- **Email**: [erfan.wtf44@gmail.com](mailto:erfan.wtf44@gmail.com) 
+[Telegram](https://t.me/ErfanAbedinpour) · [Instagram](https://www.instagram.com/erfanabedinpour6) · [erfan.wtf44@gmail.com](mailto:erfan.wtf44@gmail.com)
